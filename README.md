@@ -4,4 +4,4 @@
 This repo contains the scripts used for GWAS and machine learning.
 
 ## List of scripts 
-* **script** - description  
+* **batch_strand_update** - a wrapper script to process update_build.sh.   
